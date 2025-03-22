@@ -1,0 +1,46 @@
+---
+id: 389
+title: 'UBS est de retour au casino des subprimes'
+date: '2012-10-07T10:29:36+02:00'
+author: 'François Pilet'
+layout: post
+guid: 'http://www.francoispilet.net/?p=389'
+permalink: /ubs-est-de-retour-au-casino-des-subprimes/
+categories:
+    - finance
+    - UBS
+---
+
+*Alors que la BNS n’a pas fini d’écouler les produits toxiques récupérés lors du sauvetage de 2009, la grande banque reprend de plus belle son activité de«titrisation». Pour assouvir cette soif de crédit, UBS achète des supermarchés dans le Minnesota et des gratte-ciel dans le New Jersey. Un business qui se* *chiffre déjà en milliards de dollars.*
+
+![](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/10/mall7xx.jpg?resize=700%2C148)
+
+Des piles de crédits hypothécaires douteux, savamment brassés, coupés en tranches et estampillés «sans risques» par des agences de notation, le tout pour être vendues à des «investisseurs institutionnels» en quête de rendements juteux. Le scénario vous rappelle quelque chose? C’était la recette des subprimes qui avait bouché les artères de la finance mondiale en 2008. Le collapse généralisé n’avait pu être évité que par le sauvetage in extremis des plus grands établissements financiers de la planète par les banques centrales de leurs pays respectifs.
+
+Septembre 2012, New York. Les marmitons du crédit ont rallumé leurs chaudrons. La spécialité du moment? Les crédits accordés par centaines de millions de dollars pour financer des gratte-ciel de bureaux dans le New Jersey, des supermarchés dans le Minnesota et à Baltimore, ou des hôtels Holiday Inn dans le New Hampshire. Empaquetés et divisés en tranches, notées de AAA à C pour celles dites subprimes, ces produits trouvent de nouveau preneur. Il s’en est vendu pour 7 milliards de dollars rien qu’au mois de septembre, selon les données collectées par [Bloomberg](http://search1.bloomberg.com/search/?q=cmbs). Le marché des Commercial Mortgage Backed Securities, ou CMBS pour les intimes, [vient de retrouver](http://in.reuters.com/article/2012/09/14/markets-credit-idINL1E8KEBML20120914) son niveau de 2007.
+
+Parmi les banques les plus agressives sur ce secteur, UBS. La Banque nationale suisse (BNS) n’a pas encore éclusé la totalité des quelque 16 milliards de dollars de produits toxiques récupérés lors du sauvetage d’UBS à l’automne 2008, mais qu’à cela ne tienne. Les traders new-yorkais de la grande banque travaillent désormais d’arrache-pied pour créer de nouveaux portefeuilles de dette hypothécaire titrisée.
+
+*Une passion pour les «malls»*
+
+En mai, la banque d’affaires d’UBS a finalisé le montage d’un immense paquet de crédits commerciaux, baptisé [UBS-B Commercial Mortgage Trust 2012-C2](http://www.businesswire.com/news/home/20120627006335/en/Fitch-Rate-UBS-B-2012-C2-Commercial-Mortgage-Pass-Through), totalisant 1,22 milliard de dollars. La vente s’est si bien déroulée que l’établissement suisse a remis ça, le mois dernier, avec un second portefeuille de plus de 1 milliard de dollars, libellé [UBS-B 2012-C3](http://www.businesswire.com/news/home/20120911006823/en/Kroll-Bond-Rating-Agency-Assigns-Preliminary-Ratings). Une cinquantaine d’acheteurs se sont pressés au portillon, explique fièrement UBS: des assurances, des gérants institutionnels, des fonds de pension et des entreprises, tous à la recherche de rendements pour leurs placements. Les tranches triple A de ces produits rapportent environ 2,8% d’intérêts annuels.
+
+Pour assembler ces piles de créances, UBS investit des centaines de millions de dollars, soit pour acheter directement des hôtels, des immeubles ou des supermarchés, soit en accordant des hypothèques à leurs propriétaires. Ces investissements dans l’immobilier commercial sont généralement considérés encore plus risqués que les hypothèques résidentielles à l’origine de la crise de 2008. Mais il y a pire: dans le cas dessubprimes, les grandes banques n’accordaient pas elles-mêmes les hypothèques résidentielles, et partageaient les risques avec des établissements régionaux. La nouvelle vague des CMBS permet aux reines de Wall Street d’investir directement dans des crédits commerciaux, sans intermédiaire, et donc d’augmenter leurs profits. Et leurs risques.
+
+[![](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/10/apache2_prefRes-300x225.jpeg?resize=300%2C225)](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/10/apache2_prefRes.jpeg)UBS ne s’en prive pas. Le 25 septembre dernier, par exemple, la banque suisse [s’est offert un supermarché](http://online.wsj.com/article/SB10000872396390443862604578030871571411976.html) en Californie, près de San Bernardino, pour 85 millions de dollars. Les CMBS qu’elle écoule sont composées de dizaines d’investissements de ce genre. Outre quelques immeubles de bureaux bien placés dans le New Jersey et à Manhattan, une part importante de ces investissements sont répartis dans des régions périphériques des Etats-Unis, les plus sensibles aux aléas économiques. C’est le cas d’[Apache Mall](http://www.apachemall.com/), par exemple, un centre commercial bâti à la fin des années 1960 dans la banlieue de Rochester, dans le Minnesota, auquel UBS a avancé pas moins de 100 millions de dollars.
+
+Pour Marc Chesney, professeur de finance à l’Université de Zurich, la période actuelle de taux d’intérêt bas et la volatilité élevée des marchés sont les «ingrédients rêvés» pour voir se poursuivre ces activités de titrisation. A ses yeux, ce n’est pas un hasard si les banques qui commercialisent ces produits sont justement celles qui ont été sauvées en 2009: «A l’instar d’UBS, elles savent qu’elles peuvent prendre ce genre de risques, puisqu’elles n’ont pas vraiment à les assumer si cela tourne mal.» Cet engouement retrouvé pour la dette hypothécaire américaine impose un autre constat, selon Marc Chesney: «Cela montre que les exigences de fonds propres imposées de haute lutte aux banques ne vont pas assez loin.» Les accords de Bâle III étaient censés freiner ce genre de spéculations si gourmandes en capital. Or la titrisation de biens commerciaux nécessite d’immenses quantités de liquidités.
+
+La lecture des prospectus des deux silos à crédit vendus par UBS – plus de 600 pages chacun ([C2](http://www.sec.gov/Archives/edgar/data/1532799/000153949712000312/fwp.htm) et [C3](http://www.sec.gov/Archives/edgar/data/1532799/000153949712000481/fwp.htm)) – montre que la quasi-totalité des prêts destinés à la revente ont été avancés par une filiale américaine de la banque, UBS Real Estate Securities. En moins de six mois, la banque suisse ainsi a misé près d’un milliard et demi de dollars, issus de ses fonds propres, avant de céder ces créances à d’autres.
+
+*«Patate chaude»*
+
+Lors d’une [présentation aux actionnaires](http://www.ubs.com/global/en/about_ubs/investor_relations/presentations/investorday/2011.html) en novembre 2011, le patron de la banque d’affaires, Carsten Kengeter, avait décrit l’activité de titrisation de dette commerciale comme «attractive» ([pdf](http://www.ubs.com/content/dam/static/global/investor_relations/UBS_2011_Investor-Day_IB.pdf), page 8). Selon lui, les financements par milliards accordés par la division CMBS d’UBS, dirigée par Ken Cohen, un ancien de Lehman Brothers, seraient pleinement compatibles avec les exigences de Bâle III. Un cadre new-yorkais de la banque, qui n’a pas été autorisé à s’exprimer publiquement, explique le ressort qui lui permet d’éviter les effets des nouvelles réglementations: si UBS investit bien des centaines de millions prélevés sur ses fonds propres, elle prendrait désormais soin de les revendre le plus rapidement possible.
+
+Selon UBS, ces empilements de crédits seraient accordés en quelques mois seulement, puis titrisés et écoulés dans un délai de «quatre semaines en moyenne». Ce flux tendu est censé éviter à la banque de se retrouver avec des supermarchés invendables sur les bras en cas de retournement du marché. Pour Marc Chesney, «cette pratique est une des caractéristiques de la finance casino», qui consiste à se «passer la patate chaude à la recherche soit d’un client naïf ou d’un autre investisseur cynique qui en fera de même, encaissant des commissions à chaque passage».
+
+*Perdre? «Impossible»*
+
+Qu’en est-il du risque pour les assurances, les caisses de pension, ces «clients institutionnels» qui achètent de tels produits? Toujours selon les calculs d’UBS, il faudrait que 30% du total des créances de la pile fassent défaut pour que les investisseurs perdent leur mise, ce que la banque estime «pratiquement impossible». Les documents financiers du [portefeuille C3](http://www.sec.gov/Archives/edgar/data/1532799/000153949712000481/fwp.htm) montrent que ce seuil serait atteint avec la mise en faillite de seulement quatre supermarchés.
+
+La BNS n’a pas souhaité commenter. Une source au sein de l’institution confie toutefois que «tant qu’UBS ne garde pas ces produits dans son bilan et qu’elle se contente de les revendre à d’autres, alors nous n’avons rien à redire». Pour sa part, UBS dit avoir «fortement réduit le niveau de risque ces dernières années» et qu’elle est aujourd’hui «une des banques la plus fortement capitalisée parmi ses pairs».

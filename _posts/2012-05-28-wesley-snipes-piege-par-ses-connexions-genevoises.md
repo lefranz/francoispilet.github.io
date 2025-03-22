@@ -1,0 +1,58 @@
+---
+id: 247
+title: 'Wesley Snipes piégé par ses connexions genevoises'
+date: '2012-05-28T15:18:18+02:00'
+author: 'François Pilet'
+layout: post
+guid: 'http://www.francoispilet.net/?p=247'
+permalink: /wesley-snipes-piege-par-ses-connexions-genevoises/
+categories:
+    - banksterland
+tags:
+    - 'Arno Arndt'
+    - 'Wesley Snipes'
+---
+
+*L’acteur américain avait caché des millions à Genève. Il a fini en prison, mais ses intermédiaires helvétiques courent toujours. Leurs méthodes révèlent un business qui ne connaît pas la crise: les sociétés-écrans de droit suisse.*
+
+*Article paru le 27 mai dans Le Matin Dimanche et la SonntagsZeitung. Par Catherine Boss, François Pilet et Martina Wacker*
+
+Lundi 20 février 2006. Des nuages bas traînent sur le Léman. Dans la suite présidentielle de l’hôtel Four Seasons, quai des Bergues 33 à Genève, Wesley Snipes, 43 ans, expert en art martiaux, star de Hollywood et chasseur de vampires dans la trilogie «Blade», s’étire sous son édredon. Il observe les rideaux dorés, les lambris sur les murs, la baignoire posée au milieu de la chambre. La veille, l’acteur n’est pas sorti de sa suite. Il a commandé un encas à midi (56 francs) et s’est fait monter son dîner (159 francs). Le soir venu, il a regardé deux films sur la chaîne payante de l’hôtel (25 francs pièce). La star vient souvent à Genève. Cette fois, son séjour de quatre nuits au Four Seasons lui a coûté 20 226 francs et 50 centimes. Une bagatelle comparée aux millions de dollars que l’acteur a cachés à Genève au fil des ans.
+
+[![](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/05/wesley_snipes_mugshot.jpg?resize=220%2C231)](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/05/wesley_snipes_mugshot.jpg)Aujourd’hui, six ans plus tard, la superstar de Hollywood dort dans une cellule de la prison de McKean, en Pennsylvanie. Il en sortira à l’été 2013. La carrière de Wesley Snipess’est brisée net le 24 avril 2008, lorsqu’un tribunal de Floride l’a reconnu coupable d’une vaste fraude fiscale portant sur 40 millions de dollars. Ce jour-là, l’acteur de «Demolition Man» et de «Money Train» s’est vu condamné à une amende de 5 millions de dollars, et à trois ans de prison ferme. D’abord libéré sous caution, ses appels successifs rejetés, la star déchue a commencé de purger sa peine en décembre 2010.
+
+Le cas de Wesley Snipes montre de manière exemplaire comment les riches étrangers cachent leurs avoirs non déclarés en Suisse, non seulement en s’appuyant sur le secret bancaire, mais aussi en exploitant le laxisme du droit helvétique des sociétés. Les tout derniers chiffres du Bureau de communication en matière de blanchiment d’argent montrent que les déclarations de soupçons transmises par les banques ont connu une hausse de 40% l’an dernier. Dans la majorité des cas, ces dénonciations portaient sur des escroqueries. La plupart impliquent des sociétés-écrans, sans activité économique réelle et dont les vrais propriétaires se cachent derrière des hommes de paille.
+
+«Ces écheveaux de sociétés-écrans compliquent énormément le travail des autorités de poursuite, dit Michael Lauber, procureur général de la Confédération. Les pays du G20 exigent depuis longtemps plus de transparence en la matière. » Selon les estimations, la Suisse abrite entre 500 et 800 milliards d’avoirs non déclarés. Les nouveaux accords fiscaux imposés à la Suisse par l’OCDE et le G20 devaient mettre fin à cette situation. Pourtant, une étude publiée en janvier par deux économistes de l’Université de Copenhague montre que ces accords n’ont provoqué qu’un retour modéré des fonds cachés en Suisse. Les riches étrangers n’auraient retiré que 1% de leurs avoirs non déclarés. La raison? Seule une petite minorité de ces clients en délicatesse avec le fisc craint réellement d’être démasquée.
+
+Même les nouveaux accords prévoyant un impôt libératoire, par exemple avec l’Allemagne, ne colmatent pas toutes les brèches. Mario Tuor, porte-parole du Secrétariat d’Etat aux questions financières internationales, reconnaît que cette solution n’offre pas une sécurité à 100%.
+
+Les sociétés-écrans sont le principal rempart qui permet à l’argent non déclaré de rester en Suisse. Elles y foisonnent. Rien qu’à Zoug, plusieurs milliers de sociétés boîtes aux lettres ont établi domicile. La semaine dernière, laSonntagsZeitungrévélait que 13% des entreprises inscrites dans le canton d’Obwald sont des sociétés fantoches. La Suisse offre en effet des conditions idéales. Les impôts y sont bas, comme à Zoug, la Mecque des sociétés-écrans, les procédures de fondation de sociétés sont particulièrement simples et, surtout, l’anonymat est garanti à leur détenteur réel.
+
+Ces constellations de sociétés permettent non seulement de cacher des avoirs non déclarés, mais peuvent tout aussi bien servir au blanchiment ou encore à fomenter des escroqueries. C’est ce que démontre l’affaire BCI, en Allemagne, dans laquelle des fiduciaires suisses sont impliquées.
+
+Wesley Snipes était un bon client pour ces intermédiaires. Il s’était adjoint les services d’un maître en la matière: le fiduciaire genevois Arno Arndt. Depuis des années, son nom réapparaît dans une succession d’affaires de fraude fiscale, de chaînes de Ponzi et d’arnaques diverses et variées. A chaque fois, Arno Arndt agissait comme discret fournisseur de boîtes aux lettres, d’hommes de paille et de sociétés vendues clés en main. Ses méthodes montrent comment fonctionne ce type d’activité.
+
+<div class="wp-caption alignleft" id="attachment_250" style="width: 300px">[![](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/05/arndt290.jpg?resize=290%2C203)](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/05/arndt290.jpg)Arno Arndt
+
+</div>En 1991, Arno Arndt avait écrit un livre sur les meilleures astuces pour frauder le fisc américain. Le Genevois d’adoption y expliquait comment il était parvenu, dans les années 70, à se faire verser des centaines de milliers de dollars de crédit d’impôt par l’IRS en falsifiant des formulaires. Ce n’était pas sa seule activité. Depuis ses bureaux à la rue du Marché 3, à Genève, Arno Arndt gérait la société personnelle de Wesley Snipes, Amen Ra Films Inc.
+
+Inscrite à New York, cette entité était détenue et contrôlée par une des fiduciaires de Arndt, M&amp;S Finance Trust SA. Le nom Amen Ra n’a pas été choisi au hasard. Il éclaire la personnalité de l’acteur, à qui le succès mondial de la trilogie «Blade» a fini par monter à la tête. Snipes était convaincu de descendre en droite ligne des dieux égyptiens, et avait rassemblé autour de lui une troupe de gardes du corps baptisés les «Gardes royaux d’Amon Ra». Principale figure du panthéon de l’Egypte antique, le nom d’Amon signifie «le Caché» ou «l’Inconnaissable». Cachés, les millions de Wesley Snipes auraient dû le rester eux aussi, protégés par le réseau protéiforme des sociétés d’Arno Arndt.
+
+Avec les millions soustraits au fisc, Snipes planifiait de construire un camp d’entraînement destiné à une milice privée. Il comptait acheter un terrain en Géorgie, entre la Floride et New York, mais le shérif local a stoppé le projet lorsque sont apparues sur Internet des annonces d’emploi pour 200 hommes, promettant une formation d’élite en matière de lutte contre le terrorisme et l’espionnage.
+
+Côté comptabilité, l’acteur affirmait à l’IRS qu’il gagnait son argent à l’étranger, ne séjournait que rarement aux Etats-Unis et devait être considéré comme un «diplomate étranger». Selon certains médias américains, il se serait même laissé aller à déclarer qu’il fallait le considérer comme «le fiduciaire de Dieu». Un statut qui, selon lui, devait lui assurer de ne jamais avoir à payer d’impôts.
+
+A cette époque, Wesley Snipes s’est acoquiné avec un groupe de patriotes blancs religieux, unis par la détestation de l’Etat et des impôts. C’est un de ces extrémistes, Eddie Ray Kahn, qui est devenu le conseiller fiscal de l’acteur à la fin des années 90. Wesley Snipes s’inspirait des théories de Kahn dans des courriers de centaines de pages qu’il adressait à l’IRS pour justifier le fait qu’il n’avait plus rempli de déclaration fiscale depuis des années.
+
+[![](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/05/eddie_kookie-294x300.jpg?resize=294%2C300 "eddie_kookie")](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/05/eddie_kookie.jpg)L’affaire a mal fini pour tout le monde. Eddie Kahn a été lourdement condamné lors d’un procès parallèle à celui de Snipes. A 69 ans, le comptable extrémiste croupit aujourd’hui dans une cellule de Winton, en Caroline du Nord, avec une date de libération agendée au 21 avril 2026.
+
+Le complice genevois de Wesley Snipes, Arno Arndt, n’a pas non plus agi seul. Ces vingt dernières années, avec un fidèle réseau de partenaires, il n’a cessé de fonder de nouvelles sociétés-écrans à Zoug, Zurich ou Genève. Arndt est décédé en janvier dernier d’une maladie fulgurante, mais son clan reste actif. Aujourd’hui encore, le petit groupe d’hommes d’affaires liés à ses sociétés achète des entreprises au bord de la faillite, puis les rebaptise pour les utiliser comme couverture. Ainsi à Zoug, Vibrator Holding est devenue une fiduciaire, puis une société métallurgique, qui s’est ensuite muée en société immobilière. A Zurich, une de leurs SA, active à l’origine dans le commerce de bétail, a été transformée en société de conseil en investissement.
+
+Le clan Arndt aussi a connu récemment un changement de génération. Quelques jours après le décès du patriarche, c’est un membre de sa famille qui a repris l’une des anciennes sociétés utilisées par Snipes. Son nom, Raamen Entertainment Group, en porte encore la trace.
+
+On retrouve toujours les mêmes personnes au fil de ce labyrinthe. Le groupe est apparu récemment dans de nouveaux cas d’escroquerie. Le brasseur de formation Daniel N. , par exemple, officiait comme directeur suisse de la société Caviar Creator, partie en faillite en 2009. Selon les autorités allemandes, cette entité cachait une arnaque à la Ponzi portant sur des millions d’euros.
+
+<div class="wp-caption alignleft" id="attachment_251" style="width: 310px">[![](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/05/Baarerstrasse595-300x182.jpg?resize=300%2C182)](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/05/Baarerstrasse595.jpg)Le 79 de la Baarerstrasse à Zoug
+
+</div>En 2009, une autre entreprise du réseau Arndt, United Trust of Switzerland, s’est trouvée impliquée dans l’affaire Millenium Bank, dans laquelle des centaines de petits investisseurs s’étaient fait plumer. Là encore, Daniel N. officiait comme directeur. C’est aussi United Trust of Switzerland qui avait réglé la facture de 20 000 francs laissée par Wesley Snipes au quai des Bergues en 2006. Tenter de retrouver ces hommes de paille est l’occasion d’une plongée vers l’étrange. L’une de leurs plaques tournantes est un immeuble anonyme au 79 de la Baarerstrasse, à Zoug. Sur les 175 entreprises qui y ont élu domicile, près de 40 sont liées de près ou de loin au clan Arndt. La cage d’escalier sent le vieux tabac. Le bureau des administrateurs se trouve, selon l’adresse postale, au troisième étage. Un homme âgé et coquet y reçoit dans un bureau au mobilier triste et poussiéreux. Il officie comme directeur d’un «cabinet de conseil pour associations sportives». Quand on lui demande s’il connaît Daniel N. , il répond par la négative. Vraiment? Un coup d’œil au Registre du commerce montre que l’homme a échangé à neuf reprises ses sociétés avec d’autres du clan Arndt. Le conseiller sportif zougois admet tout de même «réceptionner le courrier» pour ces messieurs, et le leur réexpédier. Où ça? A Genève.

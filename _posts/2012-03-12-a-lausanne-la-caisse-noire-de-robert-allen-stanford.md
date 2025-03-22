@@ -1,0 +1,45 @@
+---
+id: 194
+title: 'A Lausanne, la caisse noire de Robert Allen Stanford'
+date: '2012-03-12T22:28:20+01:00'
+author: 'François Pilet'
+layout: post
+guid: 'http://www.francoispilet.net/?p=194'
+permalink: /a-lausanne-la-caisse-noire-de-robert-allen-stanford/
+categories:
+    - banksterland
+---
+
+*Robert Allen Stanford a volé 7 milliards de dollars à des investisseurs naïfs. Les autorités américaines s’intéressent à une «caisse noire» abritée par la succursale lausannoise de la Société Générale. La banque a fini par collaborer, malgré les réticences de la FINMA*
+
+Celui qui aimait se faire appeler «Sir» Robert Allen Stanford laissera son nom dans l’histoire comme le mini Madoff. Ce petit-fils d’un barbier reconverti dans les assurances, né dans la bourgade texane de Mexia, 6552 habitants au dernier comptage, avait démarré en reprenant l’affaire de son grand-père. En vingt ans, il a bâti un empire financier de carton-pâte, le Stanford Financial Group, dont les tentacules s’étendaient d’une banque fantôme d’Antigua à de luxueux bureaux à Miami et au Texas, et passait par un compte secret ouvert auprès de la succursale lausannoise de la Société Générale.
+
+L’épopée d’Allen Stanford a été stoppée net par un raid du FBI le 17 février 2009. Le financier était dans le collimateur des autorités américaines depuis des années, mais c’est vraisemblablement l’éclatement du scandale Madoff, trois mois plus tôt, qui les ont poussés à agir. Trop tard. Des 7,5 milliards de dollars confiés à l’aigrefin texan par quelque 30 000 investisseurs, seuls 960 millions ont été retrouvés à ce jour.
+
+Les enquêteurs estiment que deux milliards ont servi à alimenter le train de vie d’Allen Stanford. Une bonne centaine de millions est partie rien que pour entretenir une flotte de jets privés qui l’emmenaient tout autour du monde dans son inlassable chasse aux pigeons. Allen Stanford s’était arrêté à Zurich, en 2008. Un an à peine avant sa chute, un de ses sbires affirmait au quotidienLe Tempsque l’objectif de Stanford Group n’était pas «d’afficher la meilleure performance», mais un «taux de rendement consistant à long terme». Il vantait les myriades de projets philanthropiques soutenus par Sir Allen Stanford, et notamment ses «énormes efforts pour la renaissance du cricket dans les Indes occidentales».
+
+L’arnaque découverte, les procureurs et les enquêteurs de la commission boursière américaine (SEC) n’ont pas tardé à découvrir les connexions helvétiques du triste Sir Stanford. La piste les a menés au numéro 20 de l’Avenue de Rumine, à Lausanne, qui abrite la succursale de gestion de fortune de la Société Générale, SG Private Banking (Suisse) SA.
+
+C’est un comparse de longue date, ancien camarade de collège d’Allen Stanford devenu chef des Finances de son groupe, qui a révélé le pot aux roses. Collaborant avec la justice dans l’espoir d’une réduction de peine, James Davis a confirmé l’existence et donné moult détails sur le fonctionnement de la «caisse noire» d’Allen Stanford à la Société Générale.
+
+Ses confessions démontrent que la succursale lausannoise était aux premières loges pour observer les transactions de l’escroc. Le compte 108731 était directement alimenté par les dépôts des clients de Stanfordet servait à des opérations hautement suspectes. Outre des retraits réguliers de millions de dollars vers des comptes privés d’Allen Stanford et de James Davis, la caisse noire helvétique servait à rétribuer très grassement le comptable chargé de l’audit des comptes du groupe Stanford. Basé à Londres dans un modeste bureau au-dessus d’un coiffeur, Charlesworth «Shelley» Hewlett, recevait ainsi 30 000 livres (45 000 francs) par mois pour certifier des comptes qui n’existaient pas. Que savait-il de la fraude? Charlesworth Hewlett a emporté son secret dans la tombe le 1er janvier 2009. En apprenant sa mort, Allen Stanford a répondu: «C’est lui le chanceux. »
+
+Plus étrange encore: le solde du fameux compte 108731 est soudainement passé de 120 millions de dollars à moins de 20 millions début février 2009, deux semaines à peine avant l’arrestation d’Allen Stanford. Où est passé cet argent? La question intéresse au plus haut point les enquêteurs du Département de la justice, ceux de la SEC ainsi que des centaines d’investisseurs lésés qui cherchent à retrouver une part de leurs fortunes englouties. Les ordres passés sur le compte 108731 étaient transmis directement par James Davis à Blaise Friedli, alors directeur de la filiale lausannoise de SG Private Banking. Le gérant suisse d’Allen Stanford était régulièrement invité à des «événements» organisés par son client. Il siégeait aussi au «conseil international» du groupe Stanford, en compagnie de l’ex-président de la Confédération Adolf Ogi.
+
+«Blaise Friedli faisait-il partie de la conspiration?» s’interrogeait Robert Scardino, un avocat d’Allen Stanford, lors du contre-interrogatoire de James Davis le 7 février dernier. «Pas que je sache», a seulement répondu l’associé. Ces liens avec le mini Madoff n’ont pas eu trop de conséquences pour le gérant suisse, qui travaille toujours pour la banque. Il a seulement changé d’assistante. Blaise Friedli n’a pas répondu à nos appels.
+
+La banque, elle, est plus embarrassée. Des investisseurs américains ont déposé une plainte collective à son encontre, l’accusant d’avoir ignoré, volontairement ou non, les «signaux évidents d’une fraude». La SEC cherche aussi à faire la lumière sur les transactions du compte 108731. La Commission boursière a adressé une demande d’entraide civile à la Suisse en juin dernier. Après des mois de procédures et d’oppositions de la part de la banque, SG Private Banking a fini par livrer les données de son ancien client.
+
+Elle a cédé en janvier, obéissant à une ordonnance du tribunal civil de Genève datée du 21 octobre 2011. Fait surprenant: l’autorité de surveillance des marchés financiers suisse (FINMA) s’était opposée à l’exécution de cette demande d’entraide. Le surveillant des banques avait même spontanément écrit au tribunal pour lui indiquer que la requête américaine pourrait «porter atteinte à la souveraineté et à la sécurité juridique de la Suisse». La juge Fabienne Geisinger n’a pas tenu compte de cet avertissement, et a validé la demande. Et ce n’est qu’un début. Vendredi, la Cour fédérale de Houston a ordonné la saisie de 29 nouveaux comptes bancaires au Canada, en Angleterre et en Suisse.
+
+[USA vs James Davis – Stanford swiss secret Account](http://www.scribd.com/doc/85087343/USA-vs-James-Davis-Stanford-swiss-secret-Account "View USA vs James Davis - Stanford swiss secret Account on Scribd")<iframe data-aspect-ratio="0.706697459584296" data-auto-height="true" frameborder="0" height="600" id="doc_76272" loading="lazy" scrolling="no" src="http://www.scribd.com/embeds/85087343/content?start_page=1&view_mode=list&access_key=key-5f829u5taodz5vayntq" width="100%"></iframe><script type="text/javascript">// <![CDATA[
+ (function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "http://www.scribd.com/javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })();
+// ]]></script>
+
+[Swiss answer to Stanford Socgen accounts MLAT](http://www.scribd.com/doc/85098424/Swiss-answer-to-Stanford-Socgen-accounts-MLAT "View Swiss answer to Stanford Socgen accounts MLAT on Scribd")<iframe data-aspect-ratio="0.772727272727273" data-auto-height="true" frameborder="0" height="600" id="doc_26738" loading="lazy" scrolling="no" src="http://www.scribd.com/embeds/85098424/content?start_page=1&view_mode=list&access_key=key-17t29t8f72db7subfaxw" width="100%"></iframe><script type="text/javascript">// <![CDATA[
+ (function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "http://www.scribd.com/javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })();
+// ]]></script>
+
+[Republic and canton of Geneva Civil Court answer to MLAT](http://www.scribd.com/doc/85099091/Republic-and-canton-of-Geneva-Civil-Court-answer-to-MLAT "View Republic and canton of Geneva Civil Court answer to MLAT on Scribd")<iframe data-aspect-ratio="0.772727272727273" data-auto-height="true" frameborder="0" height="600" id="doc_76749" loading="lazy" scrolling="no" src="http://www.scribd.com/embeds/85099091/content?start_page=1&view_mode=list&access_key=key-gz5arc5plt31bpgjx40" width="100%"></iframe><script type="text/javascript">// <![CDATA[
+ (function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "http://www.scribd.com/javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })();
+// ]]></script>

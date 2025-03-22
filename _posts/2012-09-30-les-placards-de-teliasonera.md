@@ -1,0 +1,32 @@
+---
+id: 376
+title: 'Les placards de TeliaSonera'
+date: '2012-09-30T15:13:18+02:00'
+author: 'François Pilet'
+layout: post
+guid: 'http://www.francoispilet.net/?p=376'
+permalink: /les-placards-de-teliasonera/
+categories:
+    - corruption
+    - multinationales
+tags:
+    - 'Gulnara Karimova'
+---
+
+*Une enquête ouverte à Genève a mis au jour les versements suspects dont aurait profité Gulnara Karimova, fille du président ouzbek. Le corrupteur serait TeliaSonera, opérateur télécom détenu par les gouvernements suédois et finlandais, très exposé en Asie centrale. Après l’Ouzbékistan, la prochaine bombe pourrait éclater au Kazakhstan*
+
+[![](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/09/lars_nyberg_469_870645c.jpeg?resize=469%2C312)](https://i0.wp.com/www.francoispilet.net/wp-content/uploads/2012/09/lars_nyberg_469_870645c.jpeg)L’histoire de TeliaSonera devrait rappeler quelque chose aux Suisses. Un monopole d’Etat privatisé, se débattant sur un marché exigu et saturé. Puis le rêve d’une expansion internationale, à la recherche de nouvelles «sources de croissance». Ce dont Swisscom avait rêvé en 2004, – racheter son alter ego autrichien pour gagner en masse critique –, les Suédois l’ont fait en 2002. La fusion du suédois Telia avec le monopole voisin, le finlandais Sonera, avait donné naissance à un groupe capable de régater sur les eaux agitées des marchés émergents.
+
+Et dans leur quête de croissance, les Nordiques de TeliaSonera n’ont pas eu froid aux yeux. En quelques années, l’opérateur s’est implanté en Espagne, au Danemark et dans les pays baltes voisins, mais aussi en Russie, en Moldavie, en Géorgie, en Afghanistan et au Népal. Mais le marché qui semblait le plus prometteur était l’Asie centrale. Le Kazakhstan, l’Azerbaïdjan et l’Ouzbékistan.
+
+C’est dans ce dernier pays qu’a explosé la première bombe, mercredi soir. Un [documentaire](http://www.svt.se/ug/teliasonera-i-miljardaffar-med-diktatur) de la chaîne suédoise SVT a révélé que l’opérateur avait versé plus de 250 millions d’euros, en 2007, à une société écran de Gibraltar en échange d’une licence 3G. Cette société était dirigée par une jeune femme de 22 ans, décrite comme une porteuse de valises de Gulnara Karimova, la flamboyante héritière du président ouzbek, Islam Karimov. L’affaire se recoupe avec une enquête ouverte en juillet dernier par le Ministère public fédéral sur dénonciation de la banque Lombard Odier. Des centaines de millions de francs auraient été bloqués sur des comptes appartenant à Gulnara Karimova.
+
+Le lendemain de la diffusion du documentaire, le CEO de TeliaSonera, Lars Nyberg, a promis qu’il présenterait sa démission s’il s’avérait que des pots-de-vin avaient été versés ([lire le communiqué, pdf](http://www.teliasonera.com/Documents/Transcripts/Transcript%20of%20Lars%20Nybergs%20speech.pdf)). Il s’est dit persuadé que la transaction avec la société de Gibraltar était légitime, tout en reconnaissant que si c’était à refaire aujourd’hui, «nous poserions beaucoup plus de questions que nous ne l’avons fait il y a cinq ans et demi.» L’affaire ouzbek qui éclabousse aujourd’hui TeliaSonera ne serait que la pointe de l’iceberg. Car dans son expansion à marche forcée dans les steppes d’Asie centrale, l’opérateur suédois a scellé une série d’alliances qui sont elles aussi en passe de lui exploser à la figure. Et la Suisse apparaît en toile de fond de ces dossiers sensibles.
+
+Dans une interview accordée au [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304444604577341284211341616.html) en avril dernier, Lars Nyberg reconnaissait que l’expansion du groupe dans les pays émergents l’avait amené à «entrer en relation avec des hommes d’affaires très riches et à la peau dure», dont les pratiques en affaires n’étaient «pas exactement ce à quoi les Nordiques sont habitués». L’homme d’affaires dont parlait Lars Nyberg en termes peu courtois s’appelle Mehmet Emin Karamehmet. Ce milliardaire turc, propriétaire du conglomérat Cukurova, avait ouvert les portes de l’Asie à TeliaSonera, en 2005, lui cédant 14% de ses parts dans l’opérateur Turkcell. Mehmet Karamehmet était devenu un important partenaire du suédois, participant à ses investissements en Azerbaïdjan, en Géorgie, en Moldavie et au Kazakhstan via une société basée aux Pays-Bas, [Fintur Holdings](http://www.finturholdings.com/html/).
+
+Ces bonnes relations se sont envenimées lorsque TeliaSonera s’est aperçu que le groupe Cukurova avait gagé les 14% d’actions de Turkcell en échange d’un crédit – évidemment non remboursé – auprès du [groupe russe Altimo](http://www.bloomberg.com/news/2011-07-21/court-says-altimo-has-13-7-more-of-turkcell-altimo-says-2-.html). Depuis, le groupe Cukurova et TeliaSonera s’écharpent devant un tribunal arbitral à Genève. Une ville où le milliardaire turc a de nombreuses attaches. Ancien partenaire de la société pétrolière Addax, il y possède notamment la Banque de Commerce et de Placements.
+
+Comme sur le versant ouzbek, l’histoire s’est soudainement accélérée ces derniers mois. En février dernier, TeliaSonera a déboursé plus de [1,5 milliard de dollars](http://www.teliasonera.com/en/newsroom/press-releases/2012/2/teliasonera-completes-first-phase-of-kcell-transaction/) pour augmenter sa participation dans l’opérateur kazakh Kcell. L’opération n’avait pas attiré l’attention, avant que Mehmet Karamehmet ne vienne à nouveau semer le trouble. Coté en bourse aux Etats-Unis, Turkcell a [révélé fin avril](http://blogs.wsj.com/corruption-currents/2012/04/23/turkcell-discloses-improper-payments-at-kazakh-company/) dans un communiqué aux autorités boursières que les activités de Kcell avaient pu être «entachées par des paiements irréguliers». Ces versements, selon Turkcell, impliqueraient «des employés et le management de Kcell, de Fintur Holdings et de TeliaSonera».
+
+Le 1,5 milliard de dollars de l’acquisition de Kcell a été versé en cash à Kazakhtelecom, lui-même détenu en majorité par le «fonds national de prospérité» [Samruk-Kazyna](http://uk.mobile.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUKL5E8GFD0L20120515?irpc=979). Son directeur et président n’est autre que Timur Kulibayev, le gendre du président Nursultan Nazarbaïev, bien connu des Genevois pour s’être offert une somptueuse villa à Anières, en 2009. TeliaSonera a annoncé l’ouverture d’une enquête interne en mai dernier. Ses résultats se font toujours attendre.
