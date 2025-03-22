@@ -1,12 +1,15 @@
 source "https://rubygems.org"
 
-# Jekyll et ses plugins
-gem "jekyll", "~> 4.2.0"
-gem "minima", "~> 2.5"
+# GitHub Pages
+gem "github-pages", group: :jekyll_plugins
 
+# Plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-seo-tag", "~> 2.7"
+  gem "jekyll-include-cache"  # Requis pour Minimal Mistakes
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
 end
 
 # Bibliothèques standards pour Ruby 3.4.x

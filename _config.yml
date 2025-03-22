@@ -6,26 +6,72 @@ description: >-
   et la fiscalité internationale. Fondateur de Gotham City.
 url: 'https://francoispilet.net'
 baseurl: ''
-twitter_username: fpilet
-github_username: francoispilet
+locale: "fr-FR"  # Langue française
 
 # Configuration du thème
-theme: minima
-minima:
-  date_format: "%d %b %Y"
-  social_links:
-    twitter: fpilet
-    github: francoispilet
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Structure du site
 permalink: /:title/
+paginate: 5  # Nombre d'articles par page sur la page d'accueil
+paginate_path: /page:num/
 show_excerpts: true
 excerpt_separator: <!--more-->
+
+# Réseaux sociaux
+twitter:
+  username: fpilet
+github_username: francoispilet
+
+# Configuration d'auteur par défaut
+author:
+  name: "François Pilet"
+  avatar: "/assets/images/bio-photo.jpg"  # Placez votre photo dans ce répertoire
+  bio: "Journaliste d'investigation spécialisé dans la finance, la banque, et la fiscalité internationale. Fondateur de Gotham City."
+  location: "Suisse"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fpilet"
+
+# Configuration de la navigation dans l'entête
+header:
+  image: /assets/images/header-image.jpg  # Optionnel: image d'en-tête
+  # overlay_color: "#333"  # Alternative à l'image: couleur de fond
+
+# Configuration des pages du site
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Inclure des pages
+include:
+  - _pages
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache  # Nécessaire pour Minimal Mistakes
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Exclusions
 exclude:
